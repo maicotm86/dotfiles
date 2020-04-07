@@ -11,7 +11,7 @@ export EDITOR="nvim"
 export TERMINAL="terminator"
 export BROWSER="brave"
 export READER="zathura"
-export STATUSBAR="dwmblocks"
+#export STATUSBAR="dwmblocks"
 
 # ~/ Clean-up:
 export XAUTHORITY="$XDG_RUNTIME_DIR/Xauthority" # This line will break some DMs.
